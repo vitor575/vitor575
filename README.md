@@ -3,7 +3,7 @@ Olá, sou o Vitor Hugo ✋🏻
 Me formei desenvolvedor Front-end, acumulando experiência com javaScript, React, Typecript, API Rest e Banco de Dados (SQL & MongoDB), aprendendo na velocidade da luz com foco em resolucao de problemas.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-silva-de-souza-662a50222/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/JGASNMTHZQZOP1) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511977562907) 
 <a href = "mailto:vitor95340@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor575&show_icons=true&theme=dracula)
