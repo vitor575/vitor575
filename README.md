@@ -3,15 +3,6 @@
 
 Atualmente estou estudando desenvolvimento web mais voltado para a área de front-end, estou em busca da minha primeira oportunidade de emprego dentro da área 
  
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=vitor575&show_icons=true&theme=tokyonight" 
-    height="200"
-    >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor575&layout=donut&theme=tokyonight"
-    height="200"
-    >
-</div>
-
 
 ## Tecnologias que estou estudando
 <div style="display: inline_block"><br>
