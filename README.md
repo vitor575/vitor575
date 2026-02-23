@@ -2,10 +2,20 @@
 ---
 
 Atualmente estou estudando desenvolvimento web mais voltado para a área de front-end, estou em busca da minha primeira oportunidade de emprego dentro da área 
- 
+
+
+## 📊 Dashboard de Atividades
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitor575&theme=dracula&show_icons=true&count_private=true)
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor575&layout=compact&theme=dracula)
+  
+</div>
 
 ## Tecnologias que estou estudando
-<div style="display: inline_block"><br>
+div style="display: inline_block"><br>
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
