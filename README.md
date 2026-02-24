@@ -9,8 +9,8 @@ Atualmente estou estudando desenvolvimento web focado em front-end e estou em bu
 
 ## 📊 Estatísticas
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitor575&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor575&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=vitor575&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitor575&layout=compact&theme=radical"/>
 </div>
 
 ---
@@ -23,6 +23,8 @@ Atualmente estou estudando desenvolvimento web focado em front-end e estou em bu
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/latest/icons/graphql/graphql-plain.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
 </div>
 
 ---
