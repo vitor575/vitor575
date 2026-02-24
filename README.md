@@ -1,28 +1,23 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7aa2f7&width=500&height=50&lines=Olá,+eu+sou+Vitor+Hugo!;Front-end+Developer)
+# Typing 
 
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2338F9D7&lines=Hello!;I'm+Vitor;I'm+a+Software+Engineer;Welcome+to+my+GitHub+profile!)
 
-Atualmente estou estudando desenvolvimento web voltado para front-end.
+## Connect with me  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:vitor575@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vitor575/)  
 
-## 📊 Dashboard de Atividades
+## GitHub Stats  
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor575&show_icons=true&theme=radical)
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vitor575&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor575&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+## Technologies and Tools  
 
-## Tecnologias que estou estudando
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
+- ![Dart](https://img.shields.io/badge/Dart-00BFFF?logo=dart&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-    <img align="center" alt="GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
-    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" />
-    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" />
-</div>
-
-## Contatos
-
-[![Gmail Badge](https://img.shields.io/badge/-vitorhugo@email.com?style=flat&logo=gmail&logoColor=white&link=mailto:vitorhugo@email.com)](mailto:vitorhugo@email.com)  
-[![LinkedIn Badge](https://img.shields.io/badge/-Vitor%20Hugo-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorhugo/)](https://www.linkedin.com/in/vitorhugo/)  
+Enjoy exploring my repositories!
