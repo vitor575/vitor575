@@ -9,8 +9,8 @@ Atualmente estou estudando desenvolvimento web focado em front-end e estou em bu
 
 ## 📊 Estatísticas
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=vitor575&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitor575&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=vitor575&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitor575&layout=compact&theme=tokyonight"/>
 </div>
 
 ## 🚀 Tecnologias
