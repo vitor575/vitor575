@@ -2,28 +2,37 @@
 
 ---
 
-Atualmente estou estudando desenvolvimento web voltado para front-end, estou em busca da minha primeira oportunidade de emprego dentro da área.
+## 👨‍💻 Sobre mim
+Atualmente estou estudando desenvolvimento web focado em front-end e estou em busca da minha primeira oportunidade na área.
 
-## 📊 Dashboard de Atividades
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitor575&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor575&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+---
 
-## Tecnologias que estou estudando
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="GraphQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/latest/icons/graphql/graphql-plain.svg" />
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+## 📊 Estatísticas
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitor575&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor575&layout=compact&theme=radical"/>
 </div>
 
-## Contatos
-<a href="mailto:vitor95340@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/dev-vitorhugo" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+---
+
+## 🚀 Tecnologias
+<div align="center">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/latest/icons/graphql/graphql-plain.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+</div>
+
+---
+
+## 📫 Contato
+<div align="center">
+  <a href="mailto:vitor95340@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dev-vitorhugo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
