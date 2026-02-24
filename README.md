@@ -2,26 +2,28 @@
 
 ---
 
-Atualmente estou estudando desenvolvimento web mais voltado para a área de front-end, estou em busca da minha primeira oportunidade de emprego dentro da área
+Atualmente estou estudando desenvolvimento web voltado para front-end, estou em busca da minha primeira oportunidade de emprego dentro da área.
 
 ## 📊 Dashboard de Atividades
-<div align="center">
-    ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor575&show_icons=true&theme=radical)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor575&layout=compact&theme=radical)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vitor575&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor575&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ## Tecnologias que estou estudando
-<div style="display: inline_block">
-    <img align="center" alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-    <img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-    <img align="center" alt="GraphQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
-    <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-    <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="GraphQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/latest/icons/graphql/graphql-plain.svg" />
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ## Contatos
-<div>
-    <a href="mailto:vitor95340@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
-    <a href="https://www.linkedin.com/in/vitor-hugo"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</div>
+<a href="mailto:vitor95340@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/dev-vitorhugo" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
