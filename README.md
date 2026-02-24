@@ -13,21 +13,16 @@ Atualmente estou estudando desenvolvimento web focado em front-end e estou em bu
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitor575&layout=compact&theme=radical"/>
 </div>
 
----
-
 ## 🚀 Tecnologias
 <div align="center">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/latest/icons/graphql/graphql-plain.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
 </div>
-
----
 
 ## 📫 Contato
 <div align="center">
